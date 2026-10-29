@@ -1,0 +1,6 @@
+Adicionado ('roupa', 150, 19.99, 49.99)
+Adicionado ('roupa', 150, 19.99, 49.99)
+Adicionado ('roupa', 150, 19.99, 49.99)
+Adicionado ('roupa', 150, 19.99, 49.99)
+Adicionado ('roupa', 150, 19.99, 49.99)
+Adicionado ('asas', 0, 0.0, 0.0)
