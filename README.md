@@ -5,10 +5,15 @@ Precisara estar dentro da pasta do Gerenciar de Estoque e instalar as dependenci
 ```
 pip intsall -r requiremnts.txt --no-deps
 ```
-e depois rodar ele usando 
+e depois rodar esse comando dentro da pasta !
 ```
 streamlit run app.py
 ```
-O banco de dados vai ser criado na pasta src/
+e ele abrira uma aba em um site <br>
+Use o link para abrir no local_host:
+**[local_host](http://localhost:8501)** <br>
+Use o link para abrir no Wifi_local:
+**[wifi_local](http://192.168.1.107:8501)** <br>
+<p>O banco de dados vai ser criado na pasta src/
 La tera alguns arguivos incompletos, por causa que estou criando o projeto ainda
-so quero ter a base dele aqui no gitHub mesmo
+so quero ter a base dele aqui no Git mesmo </p>
